@@ -4,7 +4,7 @@ Proyek Data Mining untuk mengklasifikasikan gempa bumi di Indonesia berdasarkan 
 
 ## Deskripsi Project
 
-Project ini menganalisis dan mengklasifikasikan data gempa bumi di Indonesia periode 2023-2025 berdasarkan kategori magnitudo (Ringan, Sedang, Kuat) menggunakan metode Gaussian Naïve Bayes.
+Project ini menganalisis dan mengklasifikasikan data gempa bumi di Indonesia periode 2023-2025 berdasarkan kategori magnitudo (Ringan, Sedang, Kuat) menggunakan metode Gaussian Naïve Bayes. Dataset diperoleh dari Kaggle yang berjudul [Earthquakes in Indonesia](https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia) oleh Kekavigi
 
 ## Struktur Project
 
