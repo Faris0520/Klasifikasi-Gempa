@@ -1,6 +1,6 @@
 # Klasifikasi Gempa Indonesia
 
-Proyek Data Mining untuk mengklasifikasikan gempa bumi di Indonesia berdasarkan magnitudo menggunakan algoritma Naïve Bayes, sebagai bagian dari artikel yang sedang ditulis.
+Proyek Data Mining untuk mengklasifikasikan gempa bumi di Indonesia berdasarkan magnitudo menggunakan algoritma Naïve Bayes, sebagai bagian dari artikel yang sedang ditulis. (repo ini belum diperbarui berdasarkan artikel yang sudah dipublish)
 
 ## Deskripsi Project
 
